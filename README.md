@@ -1,16 +1,141 @@
-# React + Vite
+# ADEL MOSTAFA — PORTFOLIO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> ## I BUILD SHIT THAT WORKS.
 
-Currently, two official plugins are available:
+My personal developer portfolio.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Not a template.
 
-## React Compiler
+Not a collection of random gradients and floating blobs.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Just a place to show what I build, why I build it, and where I'm going next.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## THE IDEA
+
+I have an idea.
+
+I make it real.
+
+I fell in love with programming because of one simple thing:
+
+You can take an idea that exists only inside your head, write code, and make a machine made of metal and electricity execute it.
+
+No permission.
+
+No waiting for someone else to build it.
+
+**Think.**
+
+**Build.**
+
+**Make it work.**
+
+---
+
+# WHAT'S INSIDE
+
+The portfolio is built as one continuous experience.
+
+## 01 — THE ENTRANCE
+
+# I BUILD SHIT THAT WORKS.
+
+---
+
+## 02 — THE RECEIPTS
+
+# TALK IS CHEAP.
+
+# HERE'S THE PROOF.
+
+Featuring my project:
+
+### QUESTIFY
+
+A platform designed to help people develop real-world professional skills through practical tasks and scenarios.
+
+---
+
+## 03 — WHY I BUILD
+
+# I HAVE AN IDEA.
+
+# I MAKE IT REAL.
+
+Programming gives me the ability to take something that exists only inside my head and turn it into something real.
+
+That's the part I fell in love with.
+
+---
+
+## 04 — THE ARSENAL
+
+The tools I currently use to turn ideas into working products.
+
+### Frontend
+
+- React
+- JavaScript
+- Tailwind CSS
+
+### Backend
+
+- ASP.NET Core
+- REST APIs
+- Entity Framework Core
+
+### Data
+
+- MySQL
+- SQL
+- Database Design
+
+### Tools
+
+- Git
+- GitHub
+- Postman
+- Vercel
+
+---
+
+## 05 — THE ROAD AHEAD
+
+# THE BEST PROJECT I'VE BUILT DOESN'T EXIST YET.
+
+I don't have decades of experience.
+
+I'm not going to pretend that I do.
+
+I'm interested in building what's next.
+
+---
+
+## 06 — THE EXIT
+
+# THE INTRODUCTION IS OVER.
+
+# SEE YOU AT WORK.
+
+---
+
+# TECH STACK
+
+This portfolio was built with:
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **Framer Motion**
+- **Lucide React**
+
+---
+
+# RUN LOCALLY
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Adelmostafa2008/AM_Portofolio.git
