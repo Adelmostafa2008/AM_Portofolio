@@ -135,11 +135,4 @@ This portfolio was built with:
 
 Live Demo : https://am-portofolio.vercel.app
 
----
 
-# RUN LOCALLY
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Adelmostafa2008/AM_Portofolio.git
